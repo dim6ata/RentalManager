@@ -1,6 +1,6 @@
 # RentalManager
 
-### This project was implemented as a university coursework that introduces OOP concepts together with Java Swing elements. 
+### Portfolio Part #3: This project was implemented as a university coursework that introduces OOP concepts together with Java Swing elements. 
 
 It contains a mix of console and graphical user interfaces. 
 
